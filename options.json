@@ -1,1 +1,25 @@
-[]
+        
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "ReVanced"
+      }
+    ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "#FF121212"
+      },
+      {
+        "key": "lightThemeBackgroundColor",
+        "value": "#FF0096FF"
+      }
+    ]
+  }
+]
