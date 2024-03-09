@@ -14,11 +14,11 @@
     "options": [
       {
         "key": "darkThemeBackgroundColor",
-        "value": "#FF121212"
+        "value": "#FF1b1b1a"
       },
       {
         "key": "lightThemeBackgroundColor",
-        "value": "#FF4427A1"
+        "value": "#FF43b883"
       }
     ]
   }
