@@ -1,6 +1,6 @@
 {
-  "version": "v10.46.0-release.0",
-  "versionCode": 40,
-  "zipUrl": "https://github.com/Velesarix/revanced_builder/releases/download/40/twitter-revanced-magisk-v10.46.0-release.0-all.zip",
-  "changelog": "https://raw.githubusercontent.com/Velesarix/revanced_builder/update/build.md"
+  "version": "v10.47.0-release.0",
+  "versionCode": 41,
+  "zipUrl": "https://github.com/pheynnx/revanced_builder/releases/download/41/twitter-revanced-magisk-v10.47.0-release.0-all.zip",
+  "changelog": "https://raw.githubusercontent.com/pheynnx/revanced_builder/update/build.md"
 }
